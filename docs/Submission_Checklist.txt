@@ -1,0 +1,8 @@
+1. Verify official dates, rules, problem statements and required formats.
+2. Run: pip install -r requirements.txt && streamlit run app.py
+3. Run: python -m unittest discover -s tests -v
+4. Capture screenshots and demo video after browser testing.
+5. Create a GitHub repo and upload the project files.
+6. Add live demo URL if deployed.
+7. Submit the exact required links through the official portal, within deadline.
+8. Never claim prebuilt work was created during a timed round.
